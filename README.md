@@ -1,2 +1,2 @@
 # JPL-tour-notifications
-Automatically check the JPL website to see if tours are available
+This is a simple Python script that checks the JPL website every 5 minutes and calls me if there is a tour available. 
